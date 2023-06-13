@@ -1,4 +1,6 @@
 import time
 print('Hola')
 time.sleep(2)
-print('Como estas?')
+print('Como?')
+time.sleep(2)
+print('Prueba2')
